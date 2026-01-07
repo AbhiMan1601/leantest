@@ -1,1 +1,1 @@
-def hello := "world"
+#eval 42+9
